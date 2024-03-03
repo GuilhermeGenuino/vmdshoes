@@ -1,0 +1,9 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 10rem 0 10rem;
+    background: rgb(12,11,68);
+    background: linear-gradient(90deg, rgba(12,11,68,0.6643032212885154) 0%, rgba(4,0,34,1) 25%, rgba(2,0,20,1) 63%, rgba(2,0,18,1) 100%);
+}
+
